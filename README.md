@@ -32,6 +32,7 @@ https://mahnoor680.github.io/Todo-List/
 
 ## 📸 Screenshot
 
+<img width="723" height="377" alt="image" src="https://github.com/user-attachments/assets/6ee9edb3-0f03-4a26-8c98-a30fbea072cb" />
 
 
 ## 🌟 Future Improvements
