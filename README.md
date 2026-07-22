@@ -44,6 +44,4 @@ https://mahnoor680.github.io/Todo-List/
 
 ## 👩‍💻 Author
 
-**Your Name**
-
 Mahnoor Shahzad
