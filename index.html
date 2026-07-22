@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>todo-list</title>
+    </head>
+    <link rel="stylesheet" href="style.css">
+    <body>
+        <div class="div-style">
+        <h1>Todo-List </h1>
+        <hr>
+       <form onsubmit="addTodo(); return false;">
+        <div class="todo-input-grid">
+            <input placeholder="Todo Name" 
+            class="js-name-input name-input" required>
+            <input type="date"
+            class="js-due-date-input due-date-input" required>
+            <button type="submit" 
+            class="add-todo-button">➕ Add</button>
+        </div>
+        <div class="js-todo-list todo-grid"> </div>
+        <script src="script.js"></script>
+    </div>
+</form>
+    </body>     
+</html>
